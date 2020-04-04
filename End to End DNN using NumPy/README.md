@@ -1,5 +1,5 @@
 # DNN using NumPy
-This is 4 layers Deep Neural Network with 3 hidden layers.The architecture of the network is highlighted inside the py file. The soul aim of this code is to learnt the nitty gritty of the networks and how the network flow works. The code has been divided on functions based in NN functionalities namely:-
+This is 4 layers Deep Neural Network with 3 hidden layers.The architecture of the network is highlighted inside the py file. The soul aim of this code is to learnt the nitty gritty of the networks and how the network flow works. The code has been divided into functions based on NN functionalities, namely:-
 1. Input layer (data input in a matrix)
 2. Paramters ( weights {W} and bais {b} ) initialization
 3. Forward Propagation through the network to predict the final output ( using ReLU and Sigmoid activation function )
