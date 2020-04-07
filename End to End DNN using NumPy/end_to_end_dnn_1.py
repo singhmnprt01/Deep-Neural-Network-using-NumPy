@@ -114,7 +114,7 @@ def comp_cost(A_all,y,size_nn):
     
     y_hat = A_all['A'+str(size_nn-1)]
     y_act = y
-    m = len(y)
+    m = np.size(y)
     
     cost = - np.sum((y_act*np.log(y_hat)) + (1-y_act)*np.log(1-y_hat))/m
     np.squeeze(cost)
