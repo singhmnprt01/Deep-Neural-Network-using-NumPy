@@ -1,6 +1,6 @@
-# DNN using NumPy
+# DNN using NumPy (Solving a classification problem)
 This is 4 layers Deep Neural Network with 3 hidden layers.The architecture of the network is highlighted inside the py file. The soul aim of this code is to learnt the nitty gritty of the networks and how the network flow works. The code has been divided into functions based on NN functionalities, namely:-
-1. Input layer (data input in a matrix)
+1. Input layer (data input in a matrix, a classification data with y's as 0 & 1)
 2. Paramters ( weights {W} and bais {b} ) initialization
 3. Forward Propagation through the network to predict the final output ( using ReLU and Sigmoid activation function )
 4. Compute the cost function

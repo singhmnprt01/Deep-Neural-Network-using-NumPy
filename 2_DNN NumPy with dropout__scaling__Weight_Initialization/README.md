@@ -1,4 +1,4 @@
-# DNN using NumPy
+# DNN using NumPy (Solving a classification problem)
 Same NN arch as previous py file with followig features added :-
 1. Dopout
 2. Scaling the inputs
