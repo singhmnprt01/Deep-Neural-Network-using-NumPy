@@ -107,7 +107,7 @@ print("DNN auc value is : ", auc_nn)
 
 ### Cost Graph Function
 cost_graph(cost_array)
-print("Network Modeling completed at ", datetime.now(), "minimum cost function value of ",min(cost_array), "at index value ", cost_array.index(min(cost_array)))
+print("Network Modeling completed at ", datetime.now(), "with minimum cost function value of ",min(cost_array))
 
 
 
