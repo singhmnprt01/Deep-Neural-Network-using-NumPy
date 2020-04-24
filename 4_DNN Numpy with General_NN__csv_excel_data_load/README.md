@@ -1,5 +1,5 @@
 # DNN using NumPy (solving a classification problem)
-Same NN arch as previous py file with followig features added :-
+Same NN code as previous py file with followig features added :-
 1. Generalised the network - user input to create layers number and neurons per layer in the network
 2. Load file from your storage (csv or excel) and run the DNN on it
 
